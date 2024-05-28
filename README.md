@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=zeewoo0088)](https://solved.ac/zeewoo0088)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji0u0&layout=Demo&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji0u0&theme=radical)
